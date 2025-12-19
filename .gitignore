@@ -1,0 +1,5 @@
+.env
+strava_refresh_token.txt
+__pycache__/
+*.pyc
+my_strava_activities.csv
